@@ -40,8 +40,8 @@ Second-year student learning by building. Currently exploring [web development /
 
 ### 🚗 Car Rental Website
 Group project from my first year at university: a website for renting cars.
-- **My part:** [what you worked on, e.g. pages, design, booking form]
-- **Stack:** [HTML / CSS / JS / PHP / ...]
+- **My part:** Responsible for designing the website logo, developing the vehicles listing and individual car pages, implementing navigation links, and organizing the project file structure. Also contributed to the personal CV page, and overall project documentation and presentation.
+- **Stack:** [HTML / CSS / JS / ]
 - 🔗 [Repository](https://github.com/yusupmusayev/car-rental-website)
 
 ### 🤖 Deal Text Parser — Telegram Bot
