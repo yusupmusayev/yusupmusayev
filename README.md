@@ -2,9 +2,9 @@
 
 # Hi, I'm Yusup 👋
 
-**Computer Science student @ Sunway University, Malaysia 🇲🇾**
+**Computer Science student @ Sunway University, Malaysia**
 
-Second-year student learning by building. Currently exploring [web development / Python / automation — choose yours].
+Second-year student learning by building. Currently learning Python, Java, JavaScript, HTML/CSS and SQL.
 
 <br>
 
@@ -19,9 +19,10 @@ Second-year student learning by building. Currently exploring [web development /
 
 - 🎓 Studying Computer Science at **Sunway University** (2nd year, after completing Foundation)
 - 🔨 I learn by building real things and using AI tools as a coding assistant, then studying how the code works
-- 🌱 Currently learning: **[e.g. Python, JavaScript, Git, SQL]**
+- 🌱 Currently learning: **Python, Java, JavaScript, HTML/CSS, SQL**
+- 🌐 Languages: **Russian, English**, learning **Japanese**
 - 🎯 Looking for: **[internships / team projects / people to learn with]**
-- 📫 Contact: **[email or Telegram]**
+- 📫 Contact: **Telegram [@m530sv](https://t.me/m530sv)** · **musayew5774@gmail.com**
 
 ---
 
@@ -31,7 +32,8 @@ Second-year student learning by building. Currently exploring [web development /
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
@@ -40,8 +42,8 @@ Second-year student learning by building. Currently exploring [web development /
 
 ### 🚗 Car Rental Website
 Group project from my first year at university: a website for renting cars.
-- **My part:** Responsible for designing the website logo, developing the vehicles listing and individual car pages, implementing navigation links, and organizing the project file structure. Also contributed to the personal CV page, and overall project documentation and presentation.
-- **Stack:** [HTML / CSS / JS]
+- **My part:** [what you worked on, e.g. pages, design, booking form]
+- **Stack:** [HTML / CSS / JS / PHP / ...]
 - 🔗 [Repository](https://github.com/yusupmusayev/car-rental-website)
 
 ### 🤖 Deal Text Parser — Telegram Bot
@@ -65,6 +67,5 @@ A Telegram bot that takes the text of deals and extracts the key information fro
 
 ## 🤝 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m530sv)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musayew5774@gmail.com)
