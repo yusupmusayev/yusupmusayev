@@ -21,7 +21,7 @@ Second-year student learning by building. Currently learning Python, Java, JavaS
 - 🔨 I learn by building real things and using AI tools as a coding assistant, then studying how the code works
 - 🌱 Currently learning: **Python, Java, JavaScript, HTML/CSS, SQL**
 - 🌐 Languages: **Russian, English**, learning **Japanese**
-- 🎯 Looking for: **[internships / team projects / people to learn with]**
+- 🎯 Open to: **internships, entry-level roles, freelance and one-off projects**. Happy to learn on real tasks.
 - 📫 Contact: **Telegram [@m530sv](https://t.me/m530sv)** · **musayew5774@gmail.com**
 
 ---
