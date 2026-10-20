@@ -42,14 +42,14 @@ Second-year student learning by building. Currently learning Python, Java, JavaS
 
 ### 🚗 Car Rental Website
 Group project from my first year at university: a website for renting cars.
-- **My part:** Responsible for designing the website logo, developing the vehicles listing and individual car pages, implementing navigation links, and organizing the project file structure. Also contributed to the personal CV page, and overall project documentation and presentation.
-- **Stack:** [HTML / CSS / JS]
+- **My part:** logo design, vehicle listing and individual car pages, navigation, project file structure; also contributed to the CV page, documentation and presentation.
+- **Stack:** HTML, CSS, JavaScript
 - 🔗 [Repository](https://github.com/yusupmusayev/car-rental-website)
 
 ### 🤖 Deal Text Parser — Telegram Bot
 A Telegram bot that takes the text of deals and extracts the key information from it.
-- **What it does:** [e.g. reads a message and pulls out the price, item, date]
-- **Stack:** [Python, python-telegram-bot]
+- **What it does:** takes the text of a deal message and pulls out [list the fields: price, item, date, ...]
+- **Stack:** Python, python-telegram-bot
 - 🔗 [Repository](https://github.com/yusupmusayev/deal-parser-telegram-bot)
 
 ---
